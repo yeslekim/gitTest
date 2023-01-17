@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 	
 	public String test() {
-		String test1 = "test";
-		return "test";
+		String test = "test";
+		return test;
 	}
 }
