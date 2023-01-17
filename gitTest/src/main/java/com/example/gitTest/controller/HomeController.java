@@ -7,6 +7,8 @@ public class HomeController {
 	
 	public String test() {
 		String test = "test";
+		
+		test = "gdgd";
 		return test;
 	}
 }
